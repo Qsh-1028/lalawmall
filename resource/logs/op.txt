@@ -1,0 +1,1800 @@
+2020-04-26 19:16:18 aaa :开始==================
+array (
+  'appid' => 'wxc04330e85f91d13e',
+  'mch_id' => '1587538711',
+  'nonce_str' => 's2SISZ9X',
+  'body' => 'link-20200426191614244802',
+  'attach' => '37:wxapp',
+  'out_trade_no' => '2020042619161574265548223006',
+  'total_fee' => 100,
+  'spbill_create_ip' => '139.170.84.146',
+  'time_start' => '20200426191618',
+  'time_expire' => '20200426192618',
+  'notify_url' => 'https://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oaoS25FbiFfnkka4ZUGcnS2ptwnk',
+)
+2020-04-26 19:16:18 aaa :结束==================
+
+2020-04-26 19:20:01 aaa :开始==================
+array (
+  'appid' => 'wxc04330e85f91d13e',
+  'mch_id' => '1587538711',
+  'nonce_str' => 'InlJykqK',
+  'body' => 'link-20200426191956663492',
+  'attach' => '37:wxapp',
+  'out_trade_no' => '2020042619195728856828377859',
+  'total_fee' => 100,
+  'spbill_create_ip' => '139.170.84.146',
+  'time_start' => '20200426192001',
+  'time_expire' => '20200426193001',
+  'notify_url' => 'https://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oaoS25GxxAtCwrZKTKJdi0EPyNl0',
+)
+2020-04-26 19:20:01 aaa :结束==================
+
+2020-04-26 19:21:13 aaa :开始==================
+array (
+  'appid' => 'wxc04330e85f91d13e',
+  'mch_id' => '1587538711',
+  'nonce_str' => 'ghxkqdpb',
+  'body' => 'link-20200426192111642276',
+  'attach' => '37:wxapp',
+  'out_trade_no' => '2020042619211184228226876480',
+  'total_fee' => 100,
+  'spbill_create_ip' => '139.170.84.146',
+  'time_start' => '20200426192113',
+  'time_expire' => '20200426193113',
+  'notify_url' => 'https://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oaoS25FbiFfnkka4ZUGcnS2ptwnk',
+)
+2020-04-26 19:21:13 aaa :结束==================
+
+2020-04-28 15:39:44 aaa :开始==================
+array (
+  'appid' => 'wxc04330e85f91d13e',
+  'mch_id' => '1587538711',
+  'nonce_str' => 'Bt9zWs4v',
+  'body' => 'link-20200428153942475829',
+  'attach' => '37:wxapp',
+  'out_trade_no' => '2020042815394242888258662845',
+  'total_fee' => 100,
+  'spbill_create_ip' => '139.170.84.146',
+  'time_start' => '20200428153944',
+  'time_expire' => '20200428154944',
+  'notify_url' => 'https://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oaoS25GxxAtCwrZKTKJdi0EPyNl0',
+)
+2020-04-28 15:39:44 aaa :结束==================
+
+2020-04-29 23:49:38 aaa :开始==================
+array (
+  'appid' => 'wx3a3f5b43b91947c5',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'm37RHdC7',
+  'body' => '买单-20200429234932735444',
+  'attach' => '25:wxapp',
+  'out_trade_no' => '2020042923493220284166518384',
+  'total_fee' => 100,
+  'spbill_create_ip' => '111.225.55.12',
+  'time_start' => '20200429234938',
+  'time_expire' => '20200429235938',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oSOYC5aL5nVH5UnzPelspugTt24E',
+)
+2020-04-29 23:49:38 aaa :结束==================
+
+2020-04-30 16:52:10 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'qqW67a91',
+  'body' => '买单-20200430165208794388',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020043016520829289222406386',
+  'total_fee' => 100,
+  'spbill_create_ip' => '106.9.66.139',
+  'time_start' => '20200430165210',
+  'time_expire' => '20200430170210',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwZbI5xBApSZVEBEQYRLxBSc',
+)
+2020-04-30 16:52:10 aaa :结束==================
+
+2020-04-30 16:52:37 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'PBTu6UYN',
+  'body' => '买单-20200430165208794388',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020043016520829289222406386',
+  'total_fee' => 100,
+  'spbill_create_ip' => '106.9.66.139',
+  'time_start' => '20200430165237',
+  'time_expire' => '20200430170237',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwZbI5xBApSZVEBEQYRLxBSc',
+)
+2020-04-30 16:52:37 aaa :结束==================
+
+2020-04-30 16:53:04 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'D1JGJ6oU',
+  'body' => '买单-20200430165303286867',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020043016530368183789646962',
+  'total_fee' => 100,
+  'spbill_create_ip' => '106.9.66.139',
+  'time_start' => '20200430165304',
+  'time_expire' => '20200430170304',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwZbI5xBApSZVEBEQYRLxBSc',
+)
+2020-04-30 16:53:04 aaa :结束==================
+
+2020-04-30 16:53:35 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'nHtgo6h8',
+  'body' => '买单-20200430165332041174',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020043016533262846087624206',
+  'total_fee' => 100,
+  'spbill_create_ip' => '106.9.66.139',
+  'time_start' => '20200430165335',
+  'time_expire' => '20200430170335',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwZbI5xBApSZVEBEQYRLxBSc',
+)
+2020-04-30 16:53:35 aaa :结束==================
+
+2020-04-30 16:56:33 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'E5zwIIpW',
+  'body' => '买单-20200430165332041174',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020043016533262846087624206',
+  'total_fee' => 100,
+  'spbill_create_ip' => '106.9.66.139',
+  'time_start' => '20200430165633',
+  'time_expire' => '20200430170633',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwZbI5xBApSZVEBEQYRLxBSc',
+)
+2020-04-30 16:56:33 aaa :结束==================
+
+2020-04-30 16:56:56 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'ry20xt2C',
+  'body' => '买单-20200430165654292242',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020043016565444682105712422',
+  'total_fee' => 100,
+  'spbill_create_ip' => '106.9.66.139',
+  'time_start' => '20200430165656',
+  'time_expire' => '20200430170656',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwZbI5xBApSZVEBEQYRLxBSc',
+)
+2020-04-30 16:56:56 aaa :结束==================
+
+2020-04-30 18:03:32 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'aLr93mB9',
+  'body' => '买单-20200430180330467487',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020043018033063548582221288',
+  'total_fee' => 100,
+  'spbill_create_ip' => '106.9.66.139',
+  'time_start' => '20200430180332',
+  'time_expire' => '20200430181332',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwZbI5xBApSZVEBEQYRLxBSc',
+)
+2020-04-30 18:03:32 aaa :结束==================
+
+2020-04-30 18:04:04 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'iM8Syn5U',
+  'body' => '买单-20200430180403856081',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020043018040356432404888948',
+  'total_fee' => 100,
+  'spbill_create_ip' => '106.9.66.139',
+  'time_start' => '20200430180404',
+  'time_expire' => '20200430181404',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwZbI5xBApSZVEBEQYRLxBSc',
+)
+2020-04-30 18:04:04 aaa :结束==================
+
+2020-04-30 18:12:21 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'NJb01Tk0',
+  'body' => '买单-20200430181219482068',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020043018122032547965435464',
+  'total_fee' => 100,
+  'spbill_create_ip' => '111.225.55.12',
+  'time_start' => '20200430181221',
+  'time_expire' => '20200430182221',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwZbI5xBApSZVEBEQYRLxBSc',
+)
+2020-04-30 18:12:21 aaa :结束==================
+
+2020-05-01 17:07:10 aaa :开始==================
+array (
+  'appid' => 'wx3a3f5b43b91947c5',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'Lxq5xx34',
+  'body' => '买单-20200501170707624004',
+  'attach' => '25:wxapp',
+  'out_trade_no' => '2020050117070768846838844650',
+  'total_fee' => 100,
+  'spbill_create_ip' => '111.225.55.12',
+  'time_start' => '20200501170710',
+  'time_expire' => '20200501171710',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oSOYC5aL5nVH5UnzPelspugTt24E',
+)
+2020-05-01 17:07:10 aaa :结束==================
+
+2020-05-01 17:07:20 aaa :开始==================
+array (
+  'appid' => 'wx3a3f5b43b91947c5',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'ZEXZMLl8',
+  'body' => '买单-20200501170707624004',
+  'attach' => '25:wxapp',
+  'out_trade_no' => '2020050117070768846838844650',
+  'total_fee' => 100,
+  'spbill_create_ip' => '111.225.55.12',
+  'time_start' => '20200501170720',
+  'time_expire' => '20200501171720',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oSOYC5aL5nVH5UnzPelspugTt24E',
+)
+2020-05-01 17:07:20 aaa :结束==================
+
+2020-05-01 23:13:43 aaa :开始==================
+array (
+  'appid' => 'wx3a3f5b43b91947c5',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'mO35sA2O',
+  'body' => '账户充值-20200501231343428304',
+  'attach' => '25:wxapp',
+  'out_trade_no' => '2020050123134326326838881126',
+  'total_fee' => 1000,
+  'spbill_create_ip' => '111.225.52.34',
+  'time_start' => '20200501231343',
+  'time_expire' => '20200501232343',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oSOYC5U0RoKpqPGMWyxiRPgOZ570',
+)
+2020-05-01 23:13:43 aaa :结束==================
+
+2020-05-02 13:37:30 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'qhzuKEGE',
+  'body' => '买单-20200502133729206116',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020050213372985144228256248',
+  'total_fee' => 100,
+  'spbill_create_ip' => '123.196.128.89',
+  'time_start' => '20200502133730',
+  'time_expire' => '20200502134730',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwZbI5xBApSZVEBEQYRLxBSc',
+)
+2020-05-02 13:37:30 aaa :结束==================
+
+2020-05-02 13:37:43 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'JRqlqzo1',
+  'body' => '买单-20200502133729206116',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020050213372985144228256248',
+  'total_fee' => 100,
+  'spbill_create_ip' => '123.196.128.89',
+  'time_start' => '20200502133743',
+  'time_expire' => '20200502134743',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwZbI5xBApSZVEBEQYRLxBSc',
+)
+2020-05-02 13:37:43 aaa :结束==================
+
+2020-05-02 13:40:40 aaa :开始==================
+array (
+  'appid' => 'wx3a3f5b43b91947c5',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'BDdg1dDj',
+  'body' => '买单-20200502134036582684',
+  'attach' => '25:wxapp',
+  'out_trade_no' => '2020050213403647683844003267',
+  'total_fee' => 1500,
+  'spbill_create_ip' => '221.192.180.172',
+  'time_start' => '20200502134040',
+  'time_expire' => '20200502135040',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oSOYC5bl0zUK4K1Ajmv3pxolMQnE',
+)
+2020-05-02 13:40:40 aaa :结束==================
+
+2020-05-02 13:45:27 aaa :开始==================
+array (
+  'appid' => 'wx3a3f5b43b91947c5',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'LFAn3vac',
+  'body' => '买单-20200502134523022867',
+  'attach' => '25:wxapp',
+  'out_trade_no' => '2020050213452407387703464644',
+  'total_fee' => 1500,
+  'spbill_create_ip' => '123.196.128.89',
+  'time_start' => '20200502134527',
+  'time_expire' => '20200502135527',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oSOYC5aL5nVH5UnzPelspugTt24E',
+)
+2020-05-02 13:45:27 aaa :结束==================
+
+2020-05-02 13:45:27 aaa :开始==================
+array (
+  'appid' => 'wx3a3f5b43b91947c5',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'Z0DG8k8b',
+  'body' => '买单-20200502134523022867',
+  'attach' => '25:wxapp',
+  'out_trade_no' => '2020050213452407387703464644',
+  'total_fee' => 1500,
+  'spbill_create_ip' => '123.196.128.89',
+  'time_start' => '20200502134527',
+  'time_expire' => '20200502135527',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oSOYC5aL5nVH5UnzPelspugTt24E',
+)
+2020-05-02 13:45:27 aaa :结束==================
+
+2020-05-03 12:42:47 aaa :开始==================
+array (
+  'appid' => 'wx3a3f5b43b91947c5',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'IaUkjAJR',
+  'body' => '账户充值-20200503124246600956',
+  'attach' => '25:wxapp',
+  'out_trade_no' => '2020050312424788634802865646',
+  'total_fee' => 1000,
+  'spbill_create_ip' => '111.225.52.213',
+  'time_start' => '20200503124247',
+  'time_expire' => '20200503125247',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oSOYC5aL5nVH5UnzPelspugTt24E',
+)
+2020-05-03 12:42:47 aaa :结束==================
+
+2020-05-04 18:29:36 aaa :开始==================
+array (
+  'appid' => 'wx3a3f5b43b91947c5',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'ZY42rXa7',
+  'body' => '电脑服务-20200504182932783849',
+  'attach' => '25:wxapp',
+  'out_trade_no' => '2020050418293388226626856460',
+  'total_fee' => 8000,
+  'spbill_create_ip' => '111.225.52.213',
+  'time_start' => '20200504182936',
+  'time_expire' => '20200504183936',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oSOYC5aL5nVH5UnzPelspugTt24E',
+)
+2020-05-04 18:29:36 aaa :结束==================
+
+2020-05-04 18:29:44 aaa :开始==================
+array (
+  'appid' => 'wx3a3f5b43b91947c5',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'pMNiA1mL',
+  'body' => '电脑服务-20200504182932783849',
+  'attach' => '25:wxapp',
+  'out_trade_no' => '2020050418293388226626856460',
+  'total_fee' => 8000,
+  'spbill_create_ip' => '111.225.52.213',
+  'time_start' => '20200504182944',
+  'time_expire' => '20200504183944',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oSOYC5aL5nVH5UnzPelspugTt24E',
+)
+2020-05-04 18:29:44 aaa :结束==================
+
+2020-05-05 19:24:24 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'd37WSJ78',
+  'body' => '买单-20200505192423049108',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020050519242392648120142662',
+  'total_fee' => 100,
+  'spbill_create_ip' => '111.225.52.213',
+  'time_start' => '20200505192424',
+  'time_expire' => '20200505193424',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwZbI5xBApSZVEBEQYRLxBSc',
+)
+2020-05-05 19:24:24 aaa :结束==================
+
+2020-05-05 20:26:34 aaa :开始==================
+array (
+  'appid' => 'wx3a3f5b43b91947c5',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'bETkG809',
+  'body' => '买单-20200505202629940240',
+  'attach' => '25:wxapp',
+  'out_trade_no' => '2020050520262944786004816751',
+  'total_fee' => 100,
+  'spbill_create_ip' => '123.196.128.89',
+  'time_start' => '20200505202634',
+  'time_expire' => '20200505203634',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oSOYC5aL5nVH5UnzPelspugTt24E',
+)
+2020-05-05 20:26:34 aaa :结束==================
+
+2020-05-06 14:13:01 aaa :开始==================
+array (
+  'appid' => 'wx3a3f5b43b91947c5',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'whktc6R2',
+  'body' => '买单-20200506141258649969',
+  'attach' => '25:wxapp',
+  'out_trade_no' => '2020050614125844924463806412',
+  'total_fee' => 100,
+  'spbill_create_ip' => '111.225.52.213',
+  'time_start' => '20200506141301',
+  'time_expire' => '20200506142301',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oSOYC5aL5nVH5UnzPelspugTt24E',
+)
+2020-05-06 14:13:01 aaa :结束==================
+
+2020-05-06 15:08:13 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'hDU764j9',
+  'body' => '买单-20200506150811228678',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020050615081267435868624268',
+  'total_fee' => 500,
+  'spbill_create_ip' => '106.46.230.110',
+  'time_start' => '20200506150813',
+  'time_expire' => '20200506151813',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwSpchjoo_G8imAZ4-_8MZdM',
+)
+2020-05-06 15:08:13 aaa :结束==================
+
+2020-05-06 15:08:19 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'RlBfm4nL',
+  'body' => '买单-20200506150811228678',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020050615081267435868624268',
+  'total_fee' => 500,
+  'spbill_create_ip' => '106.46.230.110',
+  'time_start' => '20200506150819',
+  'time_expire' => '20200506151819',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwSpchjoo_G8imAZ4-_8MZdM',
+)
+2020-05-06 15:08:19 aaa :结束==================
+
+2020-05-06 15:11:54 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'cY8HiHYw',
+  'body' => '买单-20200506151152519447',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020050615115216423527219432',
+  'total_fee' => 100,
+  'spbill_create_ip' => '111.225.52.213',
+  'time_start' => '20200506151154',
+  'time_expire' => '20200506152154',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwZbI5xBApSZVEBEQYRLxBSc',
+)
+2020-05-06 15:11:54 aaa :结束==================
+
+2020-05-06 19:29:27 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'mxOvoG50',
+  'body' => '金剪@艺彩-20200506192925362561',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020050619292515362522224236',
+  'total_fee' => 1500,
+  'spbill_create_ip' => '123.196.128.89',
+  'time_start' => '20200506192927',
+  'time_expire' => '20200506193927',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwVcp0yckssVyvW0rHvj6KfY',
+)
+2020-05-06 19:29:27 aaa :结束==================
+
+2020-05-06 19:29:31 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'j1tyMEdz',
+  'body' => '金剪@艺彩-20200506192925362561',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020050619292515362522224236',
+  'total_fee' => 1500,
+  'spbill_create_ip' => '123.196.128.89',
+  'time_start' => '20200506192931',
+  'time_expire' => '20200506193931',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwVcp0yckssVyvW0rHvj6KfY',
+)
+2020-05-06 19:29:31 aaa :结束==================
+
+2020-05-06 19:29:55 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'z2TUkN0i',
+  'body' => '金剪@艺彩-20200506192925362561',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020050619292515362522224236',
+  'total_fee' => 1500,
+  'spbill_create_ip' => '123.196.128.89',
+  'time_start' => '20200506192955',
+  'time_expire' => '20200506193955',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwVcp0yckssVyvW0rHvj6KfY',
+)
+2020-05-06 19:29:55 aaa :结束==================
+
+2020-05-06 19:30:24 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'tIqwzYxS',
+  'body' => '金剪@艺彩-20200506193022863608',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020050619302255582252525709',
+  'total_fee' => 1500,
+  'spbill_create_ip' => '123.196.128.89',
+  'time_start' => '20200506193024',
+  'time_expire' => '20200506194024',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwVcp0yckssVyvW0rHvj6KfY',
+)
+2020-05-06 19:30:24 aaa :结束==================
+
+2020-05-06 19:31:23 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'm9XObuPy',
+  'body' => '金剪@艺彩-20200506193122212536',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020050619312246266626222324',
+  'total_fee' => 55800,
+  'spbill_create_ip' => '123.196.128.89',
+  'time_start' => '20200506193123',
+  'time_expire' => '20200506194123',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwVcp0yckssVyvW0rHvj6KfY',
+)
+2020-05-06 19:31:23 aaa :结束==================
+
+2020-05-06 19:32:52 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'r0i45xcg',
+  'body' => '金剪@艺彩-20200506193250270684',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020050619325083829914252201',
+  'total_fee' => 55800,
+  'spbill_create_ip' => '123.196.128.89',
+  'time_start' => '20200506193252',
+  'time_expire' => '20200506194252',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwVcp0yckssVyvW0rHvj6KfY',
+)
+2020-05-06 19:32:52 aaa :结束==================
+
+2020-05-06 19:35:20 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'fv6cR6R6',
+  'body' => '买单-20200506193518772464',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020050619351838586217152628',
+  'total_fee' => 100,
+  'spbill_create_ip' => '123.196.128.89',
+  'time_start' => '20200506193520',
+  'time_expire' => '20200506194520',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwVcp0yckssVyvW0rHvj6KfY',
+)
+2020-05-06 19:35:20 aaa :结束==================
+
+2020-05-06 19:46:43 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'wPqk1VVv',
+  'body' => '买单-20200506194641235924',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020050619464187366952486419',
+  'total_fee' => 100,
+  'spbill_create_ip' => '123.196.128.89',
+  'time_start' => '20200506194643',
+  'time_expire' => '20200506195643',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwVcp0yckssVyvW0rHvj6KfY',
+)
+2020-05-06 19:46:43 aaa :结束==================
+
+2020-05-06 19:47:02 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'OqIQValV',
+  'body' => '金剪@艺彩-20200506194654005682',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020050619465538838994412312',
+  'total_fee' => 2000,
+  'spbill_create_ip' => '183.198.76.245',
+  'time_start' => '20200506194702',
+  'time_expire' => '20200506195702',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwcqk8hhnwP_-lwdaxNi5LZ8',
+)
+2020-05-06 19:47:02 aaa :结束==================
+
+2020-05-06 19:49:20 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'cOZeguQe',
+  'body' => '买单-20200506194918462242',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020050619491946646658311860',
+  'total_fee' => 100,
+  'spbill_create_ip' => '123.196.128.89',
+  'time_start' => '20200506194920',
+  'time_expire' => '20200506195920',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwZbI5xBApSZVEBEQYRLxBSc',
+)
+2020-05-06 19:49:20 aaa :结束==================
+
+2020-05-06 19:56:33 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'PH4H22fr',
+  'body' => '买单-20200506195632433838',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020050619563246468596246836',
+  'total_fee' => 100,
+  'spbill_create_ip' => '123.196.128.89',
+  'time_start' => '20200506195633',
+  'time_expire' => '20200506200633',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwZbI5xBApSZVEBEQYRLxBSc',
+)
+2020-05-06 19:56:33 aaa :结束==================
+
+2020-05-06 20:15:44 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'Lpv8kkcK',
+  'body' => '买单-20200506201542223896',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020050620154226829796929618',
+  'total_fee' => 100,
+  'spbill_create_ip' => '123.196.128.89',
+  'time_start' => '20200506201544',
+  'time_expire' => '20200506202544',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwVcp0yckssVyvW0rHvj6KfY',
+)
+2020-05-06 20:15:44 aaa :结束==================
+
+2020-05-07 11:27:34 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'L3FQfloD',
+  'body' => '买单-20200507112732822215',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020050711273223413346776869',
+  'total_fee' => 100,
+  'spbill_create_ip' => '111.225.52.213',
+  'time_start' => '20200507112734',
+  'time_expire' => '20200507113734',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwZbI5xBApSZVEBEQYRLxBSc',
+)
+2020-05-07 11:27:34 aaa :结束==================
+
+2020-05-07 11:29:51 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'xE877Xw7',
+  'body' => '买单-20200507112732822215',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020050711273223413346776869',
+  'total_fee' => 100,
+  'spbill_create_ip' => '111.225.52.213',
+  'time_start' => '20200507112951',
+  'time_expire' => '20200507113951',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwZbI5xBApSZVEBEQYRLxBSc',
+)
+2020-05-07 11:29:51 aaa :结束==================
+
+2020-05-07 11:30:15 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'sDNAuOQu',
+  'body' => '买单-20200507113013087850',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020050711301305662414542681',
+  'total_fee' => 100,
+  'spbill_create_ip' => '111.225.52.213',
+  'time_start' => '20200507113015',
+  'time_expire' => '20200507114015',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwZbI5xBApSZVEBEQYRLxBSc',
+)
+2020-05-07 11:30:15 aaa :结束==================
+
+2020-05-07 11:30:41 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'bjE329L9',
+  'body' => '金剪@艺彩-20200507113040868781',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020050711304034434141842262',
+  'total_fee' => 1500,
+  'spbill_create_ip' => '111.225.52.213',
+  'time_start' => '20200507113041',
+  'time_expire' => '20200507114041',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwZbI5xBApSZVEBEQYRLxBSc',
+)
+2020-05-07 11:30:41 aaa :结束==================
+
+2020-05-07 11:40:48 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'fzLi000E',
+  'body' => '金剪@艺彩-20200507114042042907',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020050711404345433446054844',
+  'total_fee' => 35800,
+  'spbill_create_ip' => '106.46.230.110',
+  'time_start' => '20200507114048',
+  'time_expire' => '20200507115048',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwSpchjoo_G8imAZ4-_8MZdM',
+)
+2020-05-07 11:40:48 aaa :结束==================
+
+2020-05-07 11:41:36 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'Y11hwtvC',
+  'body' => '金剪@艺彩-20200507114129502886',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020050711413083308469450107',
+  'total_fee' => 1500,
+  'spbill_create_ip' => '111.225.52.213',
+  'time_start' => '20200507114136',
+  'time_expire' => '20200507115136',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwZbI5xBApSZVEBEQYRLxBSc',
+)
+2020-05-07 11:41:36 aaa :结束==================
+
+2020-05-07 15:36:32 aaa :开始==================
+array (
+  'appid' => 'wx3a3f5b43b91947c5',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'onsoR440',
+  'body' => '买单-20200507153629363628',
+  'attach' => '25:wxapp',
+  'out_trade_no' => '2020050715362918266782780864',
+  'total_fee' => 100,
+  'spbill_create_ip' => '111.225.52.213',
+  'time_start' => '20200507153632',
+  'time_expire' => '20200507154632',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oSOYC5aL5nVH5UnzPelspugTt24E',
+)
+2020-05-07 15:36:32 aaa :结束==================
+
+2020-05-07 16:05:47 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'yhJRdKRw',
+  'body' => '金剪@艺彩-20200507160545980446',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020050716054566039182323662',
+  'total_fee' => 2000,
+  'spbill_create_ip' => '223.104.103.89',
+  'time_start' => '20200507160547',
+  'time_expire' => '20200507161547',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwQQRNXsMwtoS7mfR3Zrm134',
+)
+2020-05-07 16:05:47 aaa :结束==================
+
+2020-05-07 17:03:07 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'I6QB6zQ7',
+  'body' => '裕西手机维修站-202005071703052802',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020050717030554278886041087',
+  'total_fee' => 8000,
+  'spbill_create_ip' => '111.225.52.213',
+  'time_start' => '20200507170307',
+  'time_expire' => '20200507171307',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwZbI5xBApSZVEBEQYRLxBSc',
+)
+2020-05-07 17:03:07 aaa :结束==================
+
+2020-05-07 17:23:15 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'DgaFpKP1',
+  'body' => '裕西手机维修站-202005071723132282',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020050717231342821822224163',
+  'total_fee' => 6000,
+  'spbill_create_ip' => '111.225.52.213',
+  'time_start' => '20200507172315',
+  'time_expire' => '20200507173315',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwZbI5xBApSZVEBEQYRLxBSc',
+)
+2020-05-07 17:23:15 aaa :结束==================
+
+2020-05-07 18:16:23 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'sz0n5LAf',
+  'body' => '裕西手机维修站-202005071816200192',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020050718162068648826158826',
+  'total_fee' => 5000,
+  'spbill_create_ip' => '106.119.10.91',
+  'time_start' => '20200507181623',
+  'time_expire' => '20200507182623',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwZbI5xBApSZVEBEQYRLxBSc',
+)
+2020-05-07 18:16:23 aaa :结束==================
+
+2020-05-08 09:45:00 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'jD319334',
+  'body' => '金剪@艺彩-20200508094457483847',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020050809445842219446043285',
+  'total_fee' => 2000,
+  'spbill_create_ip' => '223.104.103.124',
+  'time_start' => '20200508094500',
+  'time_expire' => '20200508095500',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwakVF9QbiTO_BBw7NGXqQ-Y',
+)
+2020-05-08 09:45:00 aaa :结束==================
+
+2020-05-08 11:26:32 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'L6UBbslu',
+  'body' => '金剪@艺彩-20200508112627172544',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020050811262773956670480388',
+  'total_fee' => 2000,
+  'spbill_create_ip' => '223.104.3.150',
+  'time_start' => '20200508112632',
+  'time_expire' => '20200508113632',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwS9v3cGRN_C6n7ofgOYrMPE',
+)
+2020-05-08 11:26:32 aaa :结束==================
+
+2020-05-08 22:02:43 aaa :开始==================
+array (
+  'appid' => 'wx3a3f5b43b91947c5',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'sc0mP9yY',
+  'body' => '越北琴行-20200508220239388926',
+  'attach' => '25:wxapp',
+  'out_trade_no' => '2020050822024094996062216628',
+  'total_fee' => 240000,
+  'spbill_create_ip' => '123.54.182.239',
+  'time_start' => '20200508220243',
+  'time_expire' => '20200508221243',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oSOYC5WrQZN89rzYcmWEMnjhPY74',
+)
+2020-05-08 22:02:43 aaa :结束==================
+
+2020-05-09 15:01:36 aaa :开始==================
+array (
+  'appid' => 'wx3a3f5b43b91947c5',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'fsfbEGbF',
+  'body' => '保定龙胜通讯-2020050915013328212',
+  'attach' => '25:wxapp',
+  'out_trade_no' => '2020050915013489296658796458',
+  'total_fee' => 9000,
+  'spbill_create_ip' => '111.225.52.213',
+  'time_start' => '20200509150136',
+  'time_expire' => '20200509151136',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oSOYC5aL5nVH5UnzPelspugTt24E',
+)
+2020-05-09 15:01:36 aaa :结束==================
+
+2020-05-09 20:45:30 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'TgCQGYce',
+  'body' => '金剪@艺彩-20200509204527843668',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020050920452883343248658661',
+  'total_fee' => 4000,
+  'spbill_create_ip' => '106.119.1.141',
+  'time_start' => '20200509204530',
+  'time_expire' => '20200509205530',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwR-HqWV1jzKqfZoeo-0kseg',
+)
+2020-05-09 20:45:30 aaa :结束==================
+
+2020-05-10 19:08:19 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'X8y7A869',
+  'body' => '金剪@艺彩-20200510190817628844',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020051019081726531103642062',
+  'total_fee' => 2000,
+  'spbill_create_ip' => '223.104.103.96',
+  'time_start' => '20200510190819',
+  'time_expire' => '20200510191819',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwakVF9QbiTO_BBw7NGXqQ-Y',
+)
+2020-05-10 19:08:19 aaa :结束==================
+
+2020-05-10 20:17:34 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'i99Qooh9',
+  'body' => '金剪@艺彩-20200510201732769797',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020051020173286069467921490',
+  'total_fee' => 2000,
+  'spbill_create_ip' => '223.104.103.117',
+  'time_start' => '20200510201734',
+  'time_expire' => '20200510202734',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwVLbv45qtt6SQ0rLXEvwvVU',
+)
+2020-05-10 20:17:34 aaa :结束==================
+
+2020-05-11 21:10:44 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'q7nC692r',
+  'body' => '金剪@艺彩-20200511211043882154',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020051121104360261848668810',
+  'total_fee' => 1500,
+  'spbill_create_ip' => '113.200.204.201',
+  'time_start' => '20200511211044',
+  'time_expire' => '20200511212044',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwW5iYQD3HFh417URlWrNYLs',
+)
+2020-05-11 21:10:44 aaa :结束==================
+
+2020-05-11 21:14:24 aaa :开始==================
+array (
+  'appid' => 'wx3a3f5b43b91947c5',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'Ldkz3kL4',
+  'body' => '账户充值-20200511211424968425',
+  'attach' => '25:wxapp',
+  'out_trade_no' => '2020051121142414484986164190',
+  'total_fee' => 500,
+  'spbill_create_ip' => '111.225.52.218',
+  'time_start' => '20200511211424',
+  'time_expire' => '20200511212424',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oSOYC5aL5nVH5UnzPelspugTt24E',
+)
+2020-05-11 21:14:24 aaa :结束==================
+
+2020-05-12 11:47:22 aaa :开始==================
+array (
+  'appid' => 'wx3a3f5b43b91947c5',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'Z54FZ2m8',
+  'body' => '金剪@艺彩-20200512114717177127',
+  'attach' => '25:wxapp',
+  'out_trade_no' => '2020051211471746214026534362',
+  'total_fee' => 2000,
+  'spbill_create_ip' => '101.27.222.61',
+  'time_start' => '20200512114722',
+  'time_expire' => '20200512115722',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oSOYC5Q6aq80P9ASiLPbZwHzYx9M',
+)
+2020-05-12 11:47:22 aaa :结束==================
+
+2020-05-12 13:12:29 aaa :开始==================
+array (
+  'appid' => 'wx3a3f5b43b91947c5',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'GdZ3qVGk',
+  'body' => '电脑服务-20200512131222961124',
+  'attach' => '25:wxapp',
+  'out_trade_no' => '2020051213122296446704847334',
+  'total_fee' => 8000,
+  'spbill_create_ip' => '111.225.52.218',
+  'time_start' => '20200512131229',
+  'time_expire' => '20200512132229',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oSOYC5aL5nVH5UnzPelspugTt24E',
+)
+2020-05-12 13:12:29 aaa :结束==================
+
+2020-05-13 17:45:37 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'thzaPIf6',
+  'body' => '金剪@艺彩-20200513174536422016',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020051317453695576426530667',
+  'total_fee' => 2000,
+  'spbill_create_ip' => '221.192.179.174',
+  'time_start' => '20200513174537',
+  'time_expire' => '20200513175537',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwTBO-jvkZ3g7LmkNV1MVZ0Q',
+)
+2020-05-13 17:45:37 aaa :结束==================
+
+2020-05-13 19:51:35 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'pcqKtauZ',
+  'body' => '金剪@艺彩-20200513195133886888',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020051319513368139463298630',
+  'total_fee' => 2000,
+  'spbill_create_ip' => '223.104.103.62',
+  'time_start' => '20200513195135',
+  'time_expire' => '20200513200135',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOweMdcmJ2iIb33_GfxyZVDXM',
+)
+2020-05-13 19:51:35 aaa :结束==================
+
+2020-05-13 21:15:58 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'h7y246y2',
+  'body' => '金剪@艺彩-20200513211555668644',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020051321155662222045666842',
+  'total_fee' => 2000,
+  'spbill_create_ip' => '223.104.103.53',
+  'time_start' => '20200513211558',
+  'time_expire' => '20200513212558',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwSmklI6hsHPIzw0lMzcpjnQ',
+)
+2020-05-13 21:15:58 aaa :结束==================
+
+2020-05-14 17:09:40 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'YKCK4NyK',
+  'body' => '金剪@艺彩-20200514170938940302',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020051417093844656668857388',
+  'total_fee' => 2000,
+  'spbill_create_ip' => '221.192.178.215',
+  'time_start' => '20200514170940',
+  'time_expire' => '20200514171940',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwdPdI_296opgzXErj8Kbni4',
+)
+2020-05-14 17:09:40 aaa :结束==================
+
+2020-05-14 20:20:40 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'MAA8YDAD',
+  'body' => '金剪@艺彩-20200514202038152331',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020051420203824686827786466',
+  'total_fee' => 2000,
+  'spbill_create_ip' => '221.192.178.0',
+  'time_start' => '20200514202040',
+  'time_expire' => '20200514203040',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwQClZiPboIFmDMEcIs2Wk9M',
+)
+2020-05-14 20:20:40 aaa :结束==================
+
+2020-05-15 11:17:00 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'GcbuQOXX',
+  'body' => '金剪@艺彩-20200515111657792842',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020051511165750346292215696',
+  'total_fee' => 2000,
+  'spbill_create_ip' => '117.136.2.187',
+  'time_start' => '20200515111700',
+  'time_expire' => '20200515112700',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwfHExWWBF31XASrL6BRyG4Q',
+)
+2020-05-15 11:17:00 aaa :结束==================
+
+2020-05-16 21:09:04 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'DWnY567z',
+  'body' => '金剪@艺彩-20200516210902279263',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020051621090288566868322653',
+  'total_fee' => 5500,
+  'spbill_create_ip' => '36.98.27.118',
+  'time_start' => '20200516210904',
+  'time_expire' => '20200516211904',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwez8BO4r8GgUZAwxi4YPjDM',
+)
+2020-05-16 21:09:04 aaa :结束==================
+
+2020-05-17 16:37:12 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'D1dl2TKA',
+  'body' => '金剪@艺彩-20200517163709446146',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020051716371066602868984348',
+  'total_fee' => 2000,
+  'spbill_create_ip' => '221.192.178.183',
+  'time_start' => '20200517163712',
+  'time_expire' => '20200517164712',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwXAM07Fss-x5mGzghM2i2Hk',
+)
+2020-05-17 16:37:12 aaa :结束==================
+
+2020-05-18 11:10:21 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'GetmHg2s',
+  'body' => '金剪@艺彩-20200518111016682168',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020051811101663982257402624',
+  'total_fee' => 2000,
+  'spbill_create_ip' => '223.104.103.56',
+  'time_start' => '20200518111021',
+  'time_expire' => '20200518112021',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwaAjeEetgc65KF5De3BVY54',
+)
+2020-05-18 11:10:21 aaa :结束==================
+
+2020-05-19 10:17:43 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'ThkAZrA9',
+  'body' => '金剪@艺彩-20200519101740860018',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020051910174046893200288019',
+  'total_fee' => 3500,
+  'spbill_create_ip' => '223.104.103.103',
+  'time_start' => '20200519101743',
+  'time_expire' => '20200519102743',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwZXhLrJLI3kse_dpkL19Sr0',
+)
+2020-05-19 10:17:43 aaa :结束==================
+
+2020-05-19 12:20:51 aaa :开始==================
+array (
+  'appid' => 'wx3a3f5b43b91947c5',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'shY056y5',
+  'body' => '福凯丽洗衣-20200519122047063406',
+  'attach' => '25:wxapp',
+  'out_trade_no' => '2020051912204819104278568628',
+  'total_fee' => 1500,
+  'spbill_create_ip' => '36.98.51.201',
+  'time_start' => '20200519122051',
+  'time_expire' => '20200519123051',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oSOYC5aL5nVH5UnzPelspugTt24E',
+)
+2020-05-19 12:20:51 aaa :结束==================
+
+2020-05-20 15:48:41 aaa :开始==================
+array (
+  'appid' => 'wxc04330e85f91d13e',
+  'mch_id' => '1587538711',
+  'nonce_str' => 'n1pipXYD',
+  'body' => '森田便利店-20200520154838416245',
+  'attach' => '37:wxapp',
+  'out_trade_no' => '2020052015483923607166966441',
+  'total_fee' => 10,
+  'spbill_create_ip' => '139.170.86.105',
+  'time_start' => '20200520154841',
+  'time_expire' => '20200520155841',
+  'notify_url' => 'https://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oaoS25GxxAtCwrZKTKJdi0EPyNl0',
+)
+2020-05-20 15:48:41 aaa :结束==================
+
+2020-05-20 17:24:06 aaa :开始==================
+array (
+  'appid' => 'wx3a3f5b43b91947c5',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'SkLT3C6K',
+  'body' => '电脑服务-20200520172402279846',
+  'attach' => '25:wxapp',
+  'out_trade_no' => '2020052017240362422264326724',
+  'total_fee' => 500,
+  'spbill_create_ip' => '111.225.52.218',
+  'time_start' => '20200520172406',
+  'time_expire' => '20200520173406',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oSOYC5aL5nVH5UnzPelspugTt24E',
+)
+2020-05-20 17:24:06 aaa :结束==================
+
+2020-05-20 22:10:18 aaa :开始==================
+array (
+  'appid' => 'wx3a3f5b43b91947c5',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'uIej18cB',
+  'body' => '跑腿-20200520221015266322',
+  'attach' => '25:wxapp',
+  'out_trade_no' => '2020052022101503844184465527',
+  'total_fee' => 300,
+  'spbill_create_ip' => '111.225.53.188',
+  'time_start' => '20200520221018',
+  'time_expire' => '20200520222018',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oSOYC5aL5nVH5UnzPelspugTt24E',
+)
+2020-05-20 22:10:18 aaa :结束==================
+
+2020-05-21 09:42:07 aaa :开始==================
+array (
+  'appid' => 'wx3a3f5b43b91947c5',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'ZBdaAV1b',
+  'body' => '电脑服务-20200521094203679848',
+  'attach' => '25:wxapp',
+  'out_trade_no' => '2020052109420346664396557506',
+  'total_fee' => 500,
+  'spbill_create_ip' => '111.225.53.188',
+  'time_start' => '20200521094207',
+  'time_expire' => '20200521095207',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oSOYC5aL5nVH5UnzPelspugTt24E',
+)
+2020-05-21 09:42:07 aaa :结束==================
+
+2020-05-21 12:20:25 aaa :开始==================
+array (
+  'appid' => 'wx3a3f5b43b91947c5',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'waey77ak',
+  'body' => '跑腿-20200521122018974676',
+  'attach' => '25:wxapp',
+  'out_trade_no' => '2020052112201966843973664834',
+  'total_fee' => 600,
+  'spbill_create_ip' => '111.225.53.188',
+  'time_start' => '20200521122025',
+  'time_expire' => '20200521123025',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oSOYC5aL5nVH5UnzPelspugTt24E',
+)
+2020-05-21 12:20:25 aaa :结束==================
+
+2020-05-22 21:34:37 aaa :开始==================
+array (
+  'appid' => 'wx3a3f5b43b91947c5',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'om5VlzWw',
+  'body' => '跑腿-20200522213400028803',
+  'attach' => '25:wxapp',
+  'out_trade_no' => '2020052221340003938268412242',
+  'total_fee' => 1800,
+  'spbill_create_ip' => '111.225.53.188',
+  'time_start' => '20200522213437',
+  'time_expire' => '20200522214437',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oSOYC5U0RoKpqPGMWyxiRPgOZ570',
+)
+2020-05-22 21:34:37 aaa :结束==================
+
+2020-05-23 00:05:21 aaa :开始==================
+array (
+  'appid' => 'wx3a3f5b43b91947c5',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'hobJBT7v',
+  'body' => '跑腿-20200523000515362122',
+  'attach' => '25:wxapp',
+  'out_trade_no' => '2020052300051632621748622088',
+  'total_fee' => 1000,
+  'spbill_create_ip' => '36.98.51.201',
+  'time_start' => '20200523000521',
+  'time_expire' => '20200523001521',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oSOYC5aL5nVH5UnzPelspugTt24E',
+)
+2020-05-23 00:05:21 aaa :结束==================
+
+2020-05-23 08:46:02 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'mBHPLcHZ',
+  'body' => '金剪@艺彩-20200523084600744639',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020052308460002827244656346',
+  'total_fee' => 2000,
+  'spbill_create_ip' => '117.136.2.174',
+  'time_start' => '20200523084602',
+  'time_expire' => '20200523085602',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwfkbMJUlM-G5gxtnflafOC0',
+)
+2020-05-23 08:46:02 aaa :结束==================
+
+2020-05-23 20:38:45 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'Cm2LTvrx',
+  'body' => '跑腿-20200523203843628248',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020052320384344094598526523',
+  'total_fee' => 600,
+  'spbill_create_ip' => '36.98.51.201',
+  'time_start' => '20200523203845',
+  'time_expire' => '20200523204845',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwZbI5xBApSZVEBEQYRLxBSc',
+)
+2020-05-23 20:38:45 aaa :结束==================
+
+2020-05-23 21:17:45 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'h2i0HqZI',
+  'body' => '金剪@艺彩-20200523211743282720',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020052321174388031208438800',
+  'total_fee' => 18800,
+  'spbill_create_ip' => '223.104.103.111',
+  'time_start' => '20200523211745',
+  'time_expire' => '20200523212745',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwaq594x7UpDN8B_jtK1CzMA',
+)
+2020-05-23 21:17:45 aaa :结束==================
+
+2020-05-26 09:07:57 aaa :开始==================
+array (
+  'appid' => 'wx3a3f5b43b91947c5',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'w7IK7CWd',
+  'body' => '电脑服务-20200526090755475827',
+  'attach' => '25:wxapp',
+  'out_trade_no' => '2020052609075585685340428984',
+  'total_fee' => 600,
+  'spbill_create_ip' => '111.225.52.191',
+  'time_start' => '20200526090757',
+  'time_expire' => '20200526091757',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oSOYC5aL5nVH5UnzPelspugTt24E',
+)
+2020-05-26 09:07:57 aaa :结束==================
+
+2020-05-26 10:11:59 aaa :开始==================
+array (
+  'appid' => 'wx3a3f5b43b91947c5',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'U7B7bwbX',
+  'body' => '电脑服务-20200526101156788983',
+  'attach' => '25:wxapp',
+  'out_trade_no' => '2020052610115784648384729143',
+  'total_fee' => 200,
+  'spbill_create_ip' => '36.98.57.128',
+  'time_start' => '20200526101159',
+  'time_expire' => '20200526102159',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oSOYC5aL5nVH5UnzPelspugTt24E',
+)
+2020-05-26 10:11:59 aaa :结束==================
+
+2020-05-26 10:42:27 aaa :开始==================
+array (
+  'appid' => 'wx3a3f5b43b91947c5',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'd43hN3sH',
+  'body' => '电脑服务-20200526104224471636',
+  'attach' => '25:wxapp',
+  'out_trade_no' => '2020052610422517998666065944',
+  'total_fee' => 300,
+  'spbill_create_ip' => '111.225.52.26',
+  'time_start' => '20200526104227',
+  'time_expire' => '20200526105227',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oSOYC5aL5nVH5UnzPelspugTt24E',
+)
+2020-05-26 10:42:27 aaa :结束==================
+
+2020-05-27 16:25:00 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'nf5MSkMO',
+  'body' => '金剪@艺彩-20200527162458969141',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020052716245854476342566540',
+  'total_fee' => 2000,
+  'spbill_create_ip' => '221.192.180.201',
+  'time_start' => '20200527162500',
+  'time_expire' => '20200527163500',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwd6n4LjjUFtGFmokS731XLQ',
+)
+2020-05-27 16:25:00 aaa :结束==================
+
+2020-05-29 19:02:09 aaa :开始==================
+array (
+  'appid' => 'wxed6c78e8ad4f49df',
+  'mch_id' => '1584964221',
+  'nonce_str' => 'gQx1qAYG',
+  'body' => '金剪@艺彩-20200529190207468296',
+  'attach' => '25:wap',
+  'out_trade_no' => '2020052919020719968798848939',
+  'total_fee' => 2000,
+  'spbill_create_ip' => '223.104.103.6',
+  'time_start' => '20200529190209',
+  'time_expire' => '20200529191209',
+  'notify_url' => 'http://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oNxuOwcuDIe9-VO6p85LkylO48HM',
+)
+2020-05-29 19:02:09 aaa :结束==================
+
+2020-06-02 12:07:47 aaa :开始==================
+array (
+  'appid' => 'wxc04330e85f91d13e',
+  'mch_id' => '1587538711',
+  'nonce_str' => 'BTCB5oIn',
+  'body' => '森田便利店-20200602120744582706',
+  'attach' => '37:wxapp',
+  'out_trade_no' => '2020060212074418722666441260',
+  'total_fee' => 400,
+  'spbill_create_ip' => '139.170.83.96',
+  'time_start' => '20200602120747',
+  'time_expire' => '20200602121747',
+  'notify_url' => 'https://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oaoS25MDZFycbvSCDn8N5k6IHUJM',
+)
+2020-06-02 12:07:47 aaa :结束==================
+
+2020-06-02 14:48:11 aaa :开始==================
+array (
+  'appid' => 'wxc04330e85f91d13e',
+  'mch_id' => '1587538711',
+  'nonce_str' => 'EGKzVFqy',
+  'body' => '森田便利店-20200602144806368886',
+  'attach' => '37:wxapp',
+  'out_trade_no' => '2020060214480609814747069468',
+  'total_fee' => 50,
+  'spbill_create_ip' => '139.170.80.124',
+  'time_start' => '20200602144811',
+  'time_expire' => '20200602145811',
+  'notify_url' => 'https://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oaoS25MDZFycbvSCDn8N5k6IHUJM',
+)
+2020-06-02 14:48:11 aaa :结束==================
+
+2020-06-03 15:20:23 aaa :开始==================
+array (
+  'appid' => 'wxc04330e85f91d13e',
+  'mch_id' => '1587538711',
+  'nonce_str' => 'WcpMboyp',
+  'body' => '账户充值-20200603152023022623',
+  'attach' => '37:wxapp',
+  'out_trade_no' => '2020060315202321278620226259',
+  'total_fee' => 40000,
+  'spbill_create_ip' => '171.8.37.205',
+  'time_start' => '20200603152023',
+  'time_expire' => '20200603153023',
+  'notify_url' => 'https://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oaoS25G_bJ7ReocrQlb5trcwVj1E',
+)
+2020-06-03 15:20:23 aaa :结束==================
+
+2020-06-06 15:07:00 aaa :开始==================
+array (
+  'appid' => 'wxc04330e85f91d13e',
+  'mch_id' => '1587538711',
+  'nonce_str' => 'sC9W3cBB',
+  'body' => '账户充值-20200606150700195266',
+  'attach' => '37:wxapp',
+  'out_trade_no' => '2020060615070072945334097842',
+  'total_fee' => 10000,
+  'spbill_create_ip' => '139.170.85.33',
+  'time_start' => '20200606150700',
+  'time_expire' => '20200606151700',
+  'notify_url' => 'https://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oaoS25Pm-AqLyb3Mb5Yfu00uIn8c',
+)
+2020-06-06 15:07:00 aaa :结束==================
+
+2020-06-08 14:18:45 aaa :开始==================
+array (
+  'appid' => 'wxc04330e85f91d13e',
+  'mch_id' => '1587538711',
+  'nonce_str' => 'JeZE2A8s',
+  'body' => '森田便利店-20200608141841689542',
+  'attach' => '37:wxapp',
+  'out_trade_no' => '2020060814184208575368563926',
+  'total_fee' => 200,
+  'spbill_create_ip' => '139.170.85.33',
+  'time_start' => '20200608141845',
+  'time_expire' => '20200608142845',
+  'notify_url' => 'https://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oaoS25GxxAtCwrZKTKJdi0EPyNl0',
+)
+2020-06-08 14:18:45 aaa :结束==================
+
+2020-06-15 16:07:55 aaa :开始==================
+array (
+  'appid' => 'wxc04330e85f91d13e',
+  'mch_id' => '1587538711',
+  'nonce_str' => 'p2I3tZvl',
+  'body' => '祥汇超市-20200615160753621572',
+  'attach' => '37:wxapp',
+  'out_trade_no' => '2020061516075328255822285689',
+  'total_fee' => 100,
+  'spbill_create_ip' => '139.170.84.182',
+  'time_start' => '20200615160755',
+  'time_expire' => '20200615161755',
+  'notify_url' => 'https://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oaoS25MDZFycbvSCDn8N5k6IHUJM',
+)
+2020-06-15 16:07:55 aaa :结束==================
+
+2020-06-15 16:13:17 aaa :开始==================
+array (
+  'appid' => 'wxc04330e85f91d13e',
+  'mch_id' => '1587538711',
+  'nonce_str' => 'p7yANxCJ',
+  'body' => '驰航超市-20200615161313642274',
+  'attach' => '37:wxapp',
+  'out_trade_no' => '2020061516131520236312024830',
+  'total_fee' => 50,
+  'spbill_create_ip' => '139.170.84.182',
+  'time_start' => '20200615161317',
+  'time_expire' => '20200615162317',
+  'notify_url' => 'https://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oaoS25MDZFycbvSCDn8N5k6IHUJM',
+)
+2020-06-15 16:13:17 aaa :结束==================
+
+2020-06-16 11:50:08 aaa :开始==================
+array (
+  'appid' => 'wxc04330e85f91d13e',
+  'mch_id' => '1587538711',
+  'nonce_str' => 'kH11W74x',
+  'body' => '账户充值-20200616115007468522',
+  'attach' => '37:wxapp',
+  'out_trade_no' => '2020061611500886262671629632',
+  'total_fee' => 10000,
+  'spbill_create_ip' => '139.170.84.182',
+  'time_start' => '20200616115008',
+  'time_expire' => '20200616120008',
+  'notify_url' => 'https://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oaoS25MDZFycbvSCDn8N5k6IHUJM',
+)
+2020-06-16 11:50:08 aaa :结束==================
+
+2020-06-16 12:23:06 aaa :开始==================
+array (
+  'appid' => 'wxc04330e85f91d13e',
+  'mch_id' => '1587538711',
+  'nonce_str' => 'MFRlZyZG',
+  'body' => '驰航超市-20200616122303828344',
+  'attach' => '37:wxapp',
+  'out_trade_no' => '2020061612230306203658965646',
+  'total_fee' => 50,
+  'spbill_create_ip' => '139.170.84.182',
+  'time_start' => '20200616122306',
+  'time_expire' => '20200616123306',
+  'notify_url' => 'https://bczc.dckjmb.com/addons/we7_wmall/payment/wechat/notify.php',
+  'trade_type' => 'JSAPI',
+  'openid' => 'oaoS25GxxAtCwrZKTKJdi0EPyNl0',
+)
+2020-06-16 12:23:06 aaa :结束==================
+
